@@ -1,0 +1,63 @@
+
+[
+  {
+    "id" : 0,
+    "name" : "Nimki",
+    "image" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Frumkisgoldenspoon.com%2Fkucho-nimki-recipe%2F&psig=AOvVaw0NvXiwqnIMQkeAPWl90SUo&ust=1668578289901000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJi1kdTAr_sCFQAAAAAdAAAAABAE",
+    "price": 30
+  },
+  {
+    "id" : 1,
+    "name" : "Kolkata Chanachur",
+    "image" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fchanachur&psig=AOvVaw3CTAjQps2nI0atzkTJYQnV&ust=1668578316474000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJCC7uDAr_sCFQAAAAAdAAAAABAE",
+    "price": 50
+  },
+  {
+    "id" : 2,
+    "name" : "Mixture Namkeen",
+    "image" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flipkart.com%2Fyuvraj-food-product-hing-mixture-namkeen-marwari-bikaneri-snacks-450-gm-x-2-pack%2Fp%2Fitm75a9b44e6e14a&psig=AOvVaw3SIBrv6kUDR5Ldyzx4BNwv&ust=1668578345116000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNjex-7Ar_sCFQAAAAAdAAAAABAE",
+    "price": 60
+  },
+  {
+    "id" : 3,
+    "name" : "Samosha",
+    "image" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Frecipes.timesofindia.com%2Frecipes%2Fbaked-samosa-by-pankaj-bhadouria%2Frs55453664.cms&psig=AOvVaw13TSZRvprppEqP097zVpmu&ust=1668578377485000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPCt-_3Ar_sCFQAAAAAdAAAAABAE",
+    "price": 20
+  },
+  {
+    "id" : 4,
+    "name" : "Onion Samosha",
+    "image" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kannammacooks.com%2Fonion-samosa-vengaya-samsa%2F&psig=AOvVaw3eTfvFyOfsN5uZ2SWHcbUY&ust=1668578408851000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOill43Br_sCFQAAAAAdAAAAABAE",
+    "price": 30
+  },
+  {
+    "id" : 5,
+    "name" : "Vegitable Cutlet",
+    "image" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cookwithmanali.com%2Fveg-cutlet%2F&psig=AOvVaw3MlG9mzgnHeZ5Xx2chbuez&ust=1668578438077000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLiO-prBr_sCFQAAAAAdAAAAABAE",
+    "price": 40
+  },
+  {
+    "id" : 6,
+    "name" : "Egg pakoda",
+    "image" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Ffaridascookbook.com%2Fegg-pakora-egg-bonda-egg-bajji-egg-pakoda-recipe-egg-fritters%2F&psig=AOvVaw3LMWO86qDJuIQ7cOYX7RIa&ust=1668578466657000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOCNvqjBr_sCFQAAAAAdAAAAABAE",
+    "price": 40
+  },
+  {
+    "id" : 7,
+    "name" : "Oats Nimki",
+    "image" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tarladalal.com%2Foats-nimki-low-salt-recipe-41653r&psig=AOvVaw0yHK9nKFz_S_BJNNEBrMTM&ust=1668578497860000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIDxpLfBr_sCFQAAAAAdAAAAABAE",
+    "price": 50
+  },
+  {
+    "id" : 8,
+    "name" : "Radhaballabi",
+    "image" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fsaffronstreaks.com%2Frecipes%2Fradhaballavi-kachori-and-spicy-aloor-dum-for-bengali-new-year%2F&psig=AOvVaw1D3VkfSXq1F4PO2a2B9NDE&ust=1668578524510000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLjthsTBr_sCFQAAAAAdAAAAABAE",
+    "price": 80
+  },
+  {
+    "id" : 9,
+    "name" : "Peas Kachuri",
+    "image" : "https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.spoonforkandfood.com%2Fkoraishutir-kochuri-bengali-matar-kachori%2F&psig=AOvVaw2k1N3dmJ2qKKMJ7Iz_qzgm&ust=1668578557587000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPiB5dPBr_sCFQAAAAAdAAAAABAE",
+    "price": 40
+  }
+]

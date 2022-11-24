@@ -1,0 +1,63 @@
+
+[
+  {
+    "id" : 0,
+    "name" : "Rasgulla",
+    "image" :"asset/sweet_Image/img.png",
+    "price": 20
+  },
+{
+"id" : 1,
+"name" : "Sandesh",
+  "image" :"asset/sweet_Image/img_1.png",
+"price": 30
+},
+{
+"id" : 2,
+"name" : "Kheer",
+  "image" :"asset/sweet_Image/img_2.png",
+"price": 100
+        },
+{
+"id" : 3,
+"name" : "Misti Doi",
+  "image" :"asset/sweet_Image/img_3.png",
+"price": 120
+},
+{
+"id" : 4,
+"name" : "Rasmalai",
+  "image" :"asset/sweet_Image/img_4.png",
+"price": 60
+},
+{
+"id" : 5,
+"name" : "ChomChom",
+  "image" :"asset/sweet_Image/img_5.png",
+"price": 40
+},
+  {
+    "id" : 6,
+    "name" : "Pantua",
+    "image" :"asset/sweet_Image/img_6.png",
+    "price": 40
+  },
+  {
+    "id" : 7,
+    "name" : "Gulab Jamun",
+    "image" :"asset/sweet_Image/img_7.png",
+    "price": 50
+  },
+  {
+    "id" : 8,
+    "name" : "Rabri",
+    "image" :"asset/sweet_Image/img_8.png",
+    "price": 200
+  },
+  {
+    "id" : 9,
+    "name" : "Jalebi",
+    "image" :"asset/sweet_Image/img_9.png",
+    "price": 15
+  }
+]
